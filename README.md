@@ -9,4 +9,8 @@
 
 3. fail2Ban 禁止 ip
 
-3. 安装 docker
+4. 安装 docker
+```bash
+curl -sSL https://get.docker.com/ | sh
+docker run hello-world
+```
